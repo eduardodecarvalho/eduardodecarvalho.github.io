@@ -4,7 +4,7 @@ date: 2022-12-11 18:00:00
 categories: [architecture]
 tags: [go, golang, grpc, microsservice]
 ---
-# GRPC with Golang
+
 One of the subjects that I like to study the most is the #microservices environment.
 
 Recently at WE ARE META, I'm having the opportunity to migrate a project to this architecture and face all the challenges in this process.
