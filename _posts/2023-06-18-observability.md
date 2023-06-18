@@ -1,5 +1,5 @@
 ---
-title: Observabilidade
+title: Fundamentos sobre Observabilidade
 date: 2023-01-07 12:00:00
 categories: [engineering]
 tags: [observability, security, Kibana, Elasticsearch, Logstash]
