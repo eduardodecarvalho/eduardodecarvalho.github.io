@@ -74,7 +74,6 @@ func main() {
 }
 
 fmt.Println("Age before birthday ", person.age)
-person = nil
 makeBirthday(&person)
 fmt.Println("Age after birthday ", person.age)
 }
