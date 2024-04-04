@@ -1,6 +1,6 @@
 ---
-title: Fixing Git History Strategies for Editing Commit Messages
-date: 2024-04-03 12:00:00
+title: Strategies for Editing Commit Messages
+date: 2024-04-04 00:00:00
 categories: [engineering]
 tags: [git, good practices]
 ---
